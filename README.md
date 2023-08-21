@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princenzmw
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on pen source web development projects
+- 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me princenzmw@gmail.com or call +250781712081
 
 <!---
