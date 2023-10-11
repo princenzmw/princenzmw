@@ -20,7 +20,7 @@
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on open-source web development projects
-- To know more about me, Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio"){:target="_blank"}
+- To know more about me, Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio" target="_blank")
 - 📫 How to reach me princenzmw@gmail.com or call +250781712081
 
 <!---
