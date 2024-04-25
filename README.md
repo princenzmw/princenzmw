@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Bokande+Nzamuwe;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Programmer;A+Backed+Development+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Bokande+Nzamuwe;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Dev;A+Backed+Development+Specialist)](https://git.io/typing-svg)
 
 ```sh
                              ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
@@ -18,11 +18,34 @@
           888    Y888 d8888888888 d88P     888 888       888  "Y88888P"  888P     Y888 8888888888 
                                                                                           
 ```
-- 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on open-source web development projects
+
 - Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio") to learn more about me.
-- 📫 How to reach me: princenzmw@gmail.com or call +250781712081
+
+**I am open to**:
+
+- Collaborative work,
+- Collaborate on open-source web development projects
+- Software development,
+- Web application projects(development or research),
+- UX/UI Design projects,
+- Mentorship program and Soft skills training
+- Data Science project,
+- Artificial Intelligence project,
+- Technical Training.
+
+**Contact:**
+
+Feel free to contact me via [email](mailto:princenzmw@gmail.com) or connect with me on other platforms!
+
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/princenzmw) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/princenzmw/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/fudjiprinko146/)
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)](https://git.io/streak-stats)
 
