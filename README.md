@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Bokande+Nzamuwe;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Dev;A+Backed+Development+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=700&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Bokande+Nzamuwe;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Programmer;A+Backed+Development+Specialist)](https://git.io/typing-svg)
 
 ```sh
                              ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
@@ -23,8 +23,6 @@
 Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique blend of skills, passions, and values to create positive change. I aim to drive innovation and sustainability within software engineering by harnessing my critical thinking and collaboration strengths. Guided by a commitment to continuous learning and personal growth, my purpose is to contribute meaningfully to my community and inspire others to reach their potential, shaping a future that prioritizes individual fulfillment and societal well-being.
 
 
-- Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio") to learn more about me.
-
 **I am open to**:
 
 - Software Development and Testing
@@ -36,7 +34,7 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique bl
 
 ## Skills:
 
-#### Languages:
+### Languages, Frameworks, and Tools:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -44,7 +42,11 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique bl
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-09DECE?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-FB4934?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=Flask&logoColor=black)
+![C Programming](https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=orange)
+
+----
 
 **Contact:**
 
@@ -61,8 +63,19 @@ Feel free to contact me via [email](mailto:princenzmw@gmail.com) or connect with
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/fudjiprinko146/)
 </p>
 
+----
+
+- Visit [My Website](https://princenzmw.netlify.app/ "Personal Portfolio") to learn more about me.
+
+----
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)](https://git.io/streak-stats)
 
+----
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=800&lines=%E2%9C%8C+Thanks+for+visiting!;I'm+ready+to+collaborate+%F0%9F%98%83;%F0%9F%92%8C+Write+me+a+message+on+Linkedin!)](https://git.io/typing-svg)
+
+----
 <!---
 princenzmw/princenzmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
