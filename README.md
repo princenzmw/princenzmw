@@ -18,25 +18,39 @@
           888    Y888 d8888888888 d88P     888 888       888  "Y88888P"  888P     Y888 8888888888 
                                                                                           
 ```
+**`Full-Stack Engineer`**
+
+Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique blend of skills, passions, and values to create positive change. I aim to drive innovation and sustainability within software engineering by harnessing my critical thinking and collaboration strengths. Guided by a commitment to continuous learning and personal growth, my purpose is to contribute meaningfully to my community and inspire others to reach their potential, shaping a future that prioritizes individual fulfillment and societal well-being.
+
 
 - Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio") to learn more about me.
 
 **I am open to**:
 
-- Collaborative work,
-- Collaborate on open-source web development projects
-- Software development,
-- Web application projects(development or research),
-- UX/UI Design projects,
-- Mentorship program and Soft skills training
-- Data Science project,
-- Artificial Intelligence project,
-- Technical Training.
+- Software Development and Testing
+- Web application projects(development or research)
+- UX/UI Design projects
+- Collaborative work
+- Contribute to open-source web development projects
+- Data Science project
+
+## Skills:
+
+#### Languages:
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-09DECE?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FB4934?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Contact:**
 
 Feel free to contact me via [email](mailto:princenzmw@gmail.com) or connect with me on other platforms!
 
+----
 
 ## Connect with me:
 
