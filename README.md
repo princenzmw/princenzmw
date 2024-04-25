@@ -23,6 +23,8 @@
 - Visit [My Website](https://princenzmw.github.io/ "Personal Portfolio") to learn more about me.
 - 📫 How to reach me: princenzmw@gmail.com or call +250781712081
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)](https://git.io/streak-stats)
+
 <!---
 princenzmw/princenzmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
