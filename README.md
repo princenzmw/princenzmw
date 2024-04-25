@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @princenzmw
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Bokande+Nzamuwe;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Programmer;A+Backed+Development+Specialist)](https://git.io/typing-svg)
+
 ```sh
                              ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
                              ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
