@@ -107,6 +107,7 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenzmw&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320&theme=tokyonight)](https://github.com/princenzmw)
 
 ---
 
