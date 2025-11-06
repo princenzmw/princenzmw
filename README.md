@@ -36,6 +36,7 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique bl
 
 ## Skills:
 
+<div align="center">
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -59,6 +60,8 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I exist to leverage my unique bl
 ### Tools & Design
 ![Docker](https://img.shields.io/badge/Docker-1.0.0-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=orange)   
+
+</div>
 
 ----
 
