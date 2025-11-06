@@ -94,11 +94,12 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 <p align="center">
   <a href="https://twitter.com/princenzmw"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princenzmw)
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/princenzmw)
   <a href="https://www.linkedin.com/in/princenzmw/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/fudjiprinko146/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princenzmw)&nbsp;
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/princenzmw)&nbsp;
 
 ---
 
