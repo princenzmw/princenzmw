@@ -100,7 +100,7 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princenzmw)&nbsp;
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/princenzmw?style=for-the-badge)](https://x.com/intent/follow?screen_name=princenzmw)
+[![X (formerly Twitter)](https://img.shields.io/twitter/follow/princenzmw?style=for-the-badge)](https://x.com/intent/follow?screen_name=princenzmw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princenzmw/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fudjiprinko146/)
 
