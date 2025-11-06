@@ -103,7 +103,14 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenzmw&show_icons=true&theme=tokyonight)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=princenzmw&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
