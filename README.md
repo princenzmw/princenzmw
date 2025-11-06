@@ -110,6 +110,16 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 ---
 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=princenzmw" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320" />
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=Loan_Default_Prediction" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=AirBnB_clone_v4" />
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=princenzmw&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
