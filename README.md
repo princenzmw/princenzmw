@@ -103,21 +103,21 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenzmw&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320&theme=tokyonight)](https://github.com/princenzmw)
 
 ---
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=princenzmw" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenzmw&show_icons=true&theme=tokyonight)
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=Loan_Default_Prediction" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=AirBnB_clone_v4" />
+<!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=princenzmw" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320" /> -->
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=Loan_Default_Prediction&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=AirBnB_clone_v4&theme=tokyonight" />
 
 ---
 
