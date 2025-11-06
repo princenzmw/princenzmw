@@ -18,8 +18,6 @@
           888    Y888 d8888888888 d88P     888 888       888  "Y88888P"  888P     Y888 8888888888 
                                                                                           
 ```
-**`Full-Stack Engineer`**
-
 
 Welcome to my GitHub! I'm **Prince NZAMUWE**, a passionate **Data Scientist**, **Full-Stack Engineer**, and **Machine Learning Enthusiast**. I thrive on solving real-world problems through technology, collaboration, and continuous learning.
 
@@ -92,12 +90,6 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 ## 🌐 Connect With Me
 
-<!-- <p align="center">
-  <a href="https://twitter.com/princenzmw"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/princenzmw/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fudjiprinko146/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p> -->
-
 <p align="center">
   <a href="https://x.com/intent/follow?screen_name=princenzmw"><img src="https://img.shields.io/twitter/follow/princenzmw" alt="Twitter Follow" /></a>
   <a href="https://www.linkedin.com/in/princenzmw/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -113,10 +105,6 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 ---
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenzmw&show_icons=true&theme=tokyonight) --->
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=Loan_Default_Prediction&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=AirBnB_clone_v4&theme=tokyonight" />
@@ -125,38 +113,6 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=✌️+Thanks+for+visiting!;Let's+build+something+great+together!;💬+Reach+out+on+LinkedIn!)](https://git.io/typing-svg)
-
----
-
-<!---
-**Contact:**
-
-Feel free to contact me via [email](mailto:princenzmw@gmail.com) or connect with me on other platforms!
-
-----
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/princenzmw) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/princenzmw/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/fudjiprinko146/)
-</p>
-
-----
-
-- Visit [My Website](https://fudji.online/ "Personal Portfolio") to learn more about me.
-
-----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)](https://git.io/streak-stats)
-
-----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=800&lines=%E2%9C%8C+Thanks+for+visiting!;I'm+ready+to+collaborate+%F0%9F%98%83;%F0%9F%92%8C+Write+me+a+message+on+Linkedin!)](https://git.io/typing-svg)
-
---->
 
 ----
 <!---
