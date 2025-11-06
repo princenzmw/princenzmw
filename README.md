@@ -46,6 +46,7 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
   
   ### 🗣️ Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=orange)&nbsp;
   ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)&nbsp;
@@ -56,6 +57,8 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
   ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=orange)&nbsp;
   ![matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-blue?style=for-the-badge&logo=scikit--learn&logoColor=white)&nbsp;
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
   ### 🌐 Web Development
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -65,8 +68,9 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
   ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=Flask&logoColor=black)&nbsp;
   
   ### 🛠️ Tools & Design
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=orange)   
+  ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=orange)&nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
