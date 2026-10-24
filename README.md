@@ -79,15 +79,15 @@ Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging 
 
 ## 🚀 Featured Projects
 
-- [Portfolio Website](https://fudji.online) – My personal site showcasing projects, blog posts, and more.
+- [Portfolio Website](https://nzamuwe.com) – My personal site showcasing projects, blog posts, and more.
 
 ---
 
 
 ## 📬 Contact Me
 
-- 📧 [Email Me](mailto:princenzmw@gmail.com)
-- 🌐 [Visit My Website](https://fudji.online)
+- 📧 [Email Me](mailto:prince@nzamuwe.com)
+- 🌐 [Visit My Website](https://www.nzamuwe.com)
 
 ---
 
