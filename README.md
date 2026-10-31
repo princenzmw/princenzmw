@@ -20,15 +20,18 @@ I build data-driven systems end-to-end: leak-free machine learning pipelines, pr
 
 * 🎓 **Education:** 3rd-year BSc in Data Science & Analytics at USIU-Africa (Mastercard Foundation Scholar).
 * 🛠️ **Engineering Rigor:** Trained through the **Andela Technical Leadership Program (ATLP)** and **ALX Africa Software Engineering** (Foundations Phase).
-* 🌐 **Open Source:** Active contributor to Python data and developer tooling ecosystems ([vega/altair](https://github.com/vega/altair), [streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)).
+* 🌐 **Open Source:** Active contributor to Python data and developer tooling ecosystems.
 
 ---
 
 ### 🚀 Open Source Contributions
 
-* **[vega/altair](https://github.com/vega/altair)** *(Vega-Lite Python visualization library — 4.3k+ ⭐)*  
+* **[vega/altair](https://github.com/vega/altair)** [![Stars](https://img.shields.io/github/stars/vega/altair?style=flat-square&logo=github&label=stars)](https://github.com/vega/altair)  
+  *Vega-Lite declarative visualization library for Python*
   * **[PR #4202](https://github.com/vega/altair/pull/4202)**: Implemented early sequence length validation and informative error messaging for `selection_interval` bounds, and clarified interval documentation (resolves Issue #3896).
-* **[arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)** *(Streamlit ecosystem — 1.5k+ ⭐)*  
+
+* **[arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)** [![Stars](https://img.shields.io/github/stars/arnaudmiribel/streamlit-extras?style=flat-square&logo=github&label=stars)](https://github.com/arnaudmiribel/streamlit-extras)  
+  *Ecosystem library of re-usable widgets and components for Streamlit*
   * **[PR #420](https://github.com/arnaudmiribel/streamlit-extras/pull/420)**: Added filesystem ordering controls to `directory_tree` to preserve directory insertion order.  
   * **[PR #419](https://github.com/arnaudmiribel/streamlit-extras/pull/419)**: Resolved Windows binary execution in project build tooling.
 
@@ -36,42 +39,17 @@ I build data-driven systems end-to-end: leak-free machine learning pipelines, pr
 
 ### 📌 Featured Projects
 
-#### 1. [Credio: Credit-Risk Scorecard](https://github.com/princenzmw/credit-risk-scorecard)
-> **End-to-end credit risk modeling pipeline and decision application.**  
-> *Stack: Python, Scikit-learn, Pandas, Streamlit, Pytest, Docker, GitHub Actions CI*  
-> [Live Streamlit App](https://credio.streamlit.app) · [Repository](https://github.com/princenzmw/credit-risk-scorecard)
-
-* Built a leakage-controlled ML pipeline on 150,000 credit records, handling missing income distributions and delinquency codes directly within Scikit-learn estimators.
-* Benchmarked models under class imbalance (~6.7% default rate): baseline Logistic Regression (0.823 validation AUC) vs. Gradient Boosting (**0.869 test ROC-AUC**, **0.407 PR-AUC** on 30,000 held-out test records).
-* Configured calibrated risk bands (1.1% to 39.0% observed defaults) and cost-sensitive decision thresholds; containerized and deployed with 19 CI unit tests.
-
-#### 2. [FinAccess Kenya Dashboard](https://github.com/princenzmw/finaccess-kenya-dashboard)
-> **Financial inclusion analytics pipeline and 5-page interactive dashboard.**  
-> *Stack: Power BI (DAX), Python, Pandas*  
-> [Interactive Project Overview](https://nzamuwe.com/projects/finaccess-kenya) · [Repository](https://github.com/princenzmw/finaccess-kenya-dashboard)
-
-* Engineered a Python streaming pipeline converting a 290 MB CBK / FSD household survey into an optimized 8 MB star-schema model (19,750 survey respondents, weighted to 28.1M adults).
-* Reconciled weighted survey metrics against published national benchmarks (84.8% formal financial inclusion, 9.9% complete exclusion) and highlighted regional access disparities (48.5% to 94.0%).
+| Project | Highlights & Capabilities | Tech Stack | Receipts |
+| :--- | :--- | :--- | :--- |
+| **[Credio](https://github.com/princenzmw/credit-risk-scorecard)**<br>*(Credit-Risk Scorecard)* | • Leakage-controlled pipeline on 150,000 borrower records.<br>• **0.869 ROC-AUC**, **0.407 PR-AUC** on 30,000 held-out records.<br>• Calibrated risk bands (1.1% to 39.0%) & cost-based thresholds.<br>• Deployed Streamlit app with 19 CI unit tests. | Python, Scikit-learn, Pandas, Streamlit, Pytest, Docker, GitHub Actions | [![Live Demo](https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://credio.streamlit.app)<br>[![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/princenzmw/credit-risk-scorecard) |
+| **[FinAccess Kenya](https://github.com/princenzmw/finaccess-kenya-dashboard)**<br>*(Financial Inclusion)* | • Streaming ETL pipeline: 290 MB CBK/FSD survey → 8 MB star-schema.<br>• Weighted analysis across 19,750 adults (representing 28.1M).<br>• Reconciled national benchmarks (84.8% formal access, 9.9% exclusion).<br>• 5-page interactive Power BI analytical model. | Power BI (DAX), Python, Pandas, Star Schema Modeling | [![Case Study](https://img.shields.io/badge/Overview-nzamuwe.com-0f172a?style=flat-square)](https://nzamuwe.com/projects/finaccess-kenya)<br>[![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/princenzmw/finaccess-kenya-dashboard) |
 
 ---
 
 ### 🛠️ Technical Stack
 
-* **Languages:** Python, SQL (PostgreSQL, MySQL), TypeScript, JavaScript, R, MATLAB.
+* **Languages:** Python, SQL (PostgreSQL, MySQL), TypeScript, JavaScript, R, MATLAB, HTML5/CSS3.
 * **Data Science & ML:** Pandas, Scikit-learn, NumPy, Feature Engineering, Model Calibration (ROC-AUC / PR-AUC), Data Cleaning.
 * **Backend & BI:** FastAPI, Flask, Django REST Framework, Streamlit, Power BI (DAX), React.
 * **DevOps & Tools:** Git, GitHub Actions (CI/CD), Docker, Pytest, Playwright, Linux/Bash.
 * **Certifications:** Meta Back-End Developer · IBM Artificial Intelligence Fundamentals · freeCodeCamp JavaScript Algorithms & Data Structures.
-
----
-
-<div align="center">
-
-### 📊 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/princenzmw/credit-risk-scorecard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=credit-risk-scorecard&theme=tokyonight" /></a>
-  <a href="https://github.com/princenzmw/finaccess-kenya-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=finaccess-kenya-dashboard&theme=tokyonight" /></a>
-</p>
-
-</div>
