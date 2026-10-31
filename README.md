@@ -1,126 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&random=false&width=700&lines=%F0%9F%91%8B+Hi%2C+I+am+Prince+Nzamuwe;A+Data+Scientist+and+Analyst;A+Software+Engineer;A+Test+Driven+Development+(TDD)+Programmer;A+Machine+Learning+Engineer;A+Backend+Development+Specialist)](https://git.io/typing-svg)
-
-```sh
-                             ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
-                             ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
-                             ██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗  
-                             ██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝  
-                             ██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
-                             ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-                                               
-          888b    888 8888888888P        d8888 888b     d888 888     888 888       888 8888888888 
-          8888b   888       d88P        d88888 8888b   d8888 888     888 888   o   888 888        
-          88888b  888      d88P        d88P888 88888b.d88888 888     888 888  d8b  888 888        
-          888Y88b 888     d88P        d88P 888 888Y88888P888 888     888 888 d888b 888 8888888    
-          888 Y88b888    d88P        d88P  888 888 Y888P 888 888     888 888d88888b888 888        
-          888  Y88888   d88P        d88P   888 888  Y8P  888 888     888 88888P Y88888 888        
-          888   Y8888  d88P        d8888888888 888   "   888 Y88b. .d88P 8888P   Y8888 888        
-          888    Y888 d8888888888 d88P     888 888       888  "Y88888P"  888P     Y888 8888888888 
-                                                                                          
-```
-
-Welcome to my GitHub! I'm **Prince NZAMUWE**, a passionate **Data Scientist**, **Full-Stack Engineer**, and **Machine Learning Enthusiast**. I thrive on solving real-world problems through technology, collaboration, and continuous learning.
-
-My mission is to build impactful solutions that drive innovation and sustainability in **data science**, **machine learning**, and **software engineering**. I believe in the power of open-source, community, and lifelong growth.
-
-<!---
-Greetings! I am **_Prince (Bokande) NZAMUWE_**. I'm passionate about leveraging my diverse skill set to drive innovation in data science, machine learning, and software engineering by harnessing my critical thinking and collaboration strengths. Guided by a commitment to continuous learning and personal growth, my purpose is to contribute meaningfully to the community and inspire others to reach their potential, shaping a future that prioritizes individual fulfillment and societal well-being.
---->
-
----
-
-## 🔍 What I'm Open To
-
-- 📊 Data Science & Analytics Projects  
-- 🤖 Machine Learning & Statistical Computing  
-- 💻 Software Development & Testing  
-- 🌐 Web Application Development & Research  
-- 🎨 UX/UI Design Projects  
-- 🤝 Collaborative & Open Source Work 
-
----
-
-## 🧠 Skills & Technologies
-
 <div align="center">
-  
-  ### 🗣️ Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=orange)&nbsp;
-  ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)&nbsp;
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-  
-  ### 📈 Data Science & ML
-  ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-  ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=orange)&nbsp;
-  ![matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-blue?style=for-the-badge&logo=scikit--learn&logoColor=white)&nbsp;
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  ### 🌐 Web Development
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-  ![Django](https://img.shields.io/badge/Django-09DECE?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-  ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=Flask&logoColor=black)&nbsp;
-  
-  ### 🛠️ Tools & Design
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=orange)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+# Prince NZAMUWE
+
+**Data Scientist & Machine Learning Engineer**  
+**Mastercard Foundation Scholar** at United States International University - Africa (USIU-Africa)  
+*Nairobi, Kenya*
+
+[![Website](https://img.shields.io/badge/Portfolio-nzamuwe.com-0f172a?style=flat-square&logo=google-chrome&logoColor=white)](https://nzamuwe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-princenzmw-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/princenzmw)
+[![Email](https://img.shields.io/badge/Email-prince@nzamuwe.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prince@nzamuwe.com)
 
 </div>
 
-----
+---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-- [Portfolio Website](https://nzamuwe.com) – My personal site showcasing projects, blog posts, and more.
+I build data-driven systems end-to-end: leak-free machine learning pipelines, production analytics dashboards, and tested backend APIs. My focus is on defensible data science: calibrated probabilities over arbitrary accuracy scores, robust survey weighting, and code that other developers can clone, test, and rerun without questions.
+
+* 🎓 **Education:** 3rd-year BSc in Data Science & Analytics at USIU-Africa (Mastercard Foundation Scholar).
+* 🛠️ **Engineering Rigor:** Trained through the **Andela Technical Leadership Program (ATLP)** and **ALX Africa Software Engineering** (Foundations Phase).
+* 🌐 **Open Source:** Active contributor to Python data and developer tooling ecosystems ([vega/altair](https://github.com/vega/altair), [streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)).
 
 ---
 
+### 🚀 Open Source Contributions
 
-## 📬 Contact Me
-
-- 📧 [Email Me](mailto:prince@nzamuwe.com)
-- 🌐 [Visit My Website](https://www.nzamuwe.com)
+* **[vega/altair](https://github.com/vega/altair)** *(Vega-Lite Python visualization library — 4.3k+ ⭐)*  
+  * **[PR #4202](https://github.com/vega/altair/pull/4202)**: Implemented early sequence length validation and informative error messaging for `selection_interval` bounds, and clarified interval documentation (resolves Issue #3896).
+* **[arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)** *(Streamlit ecosystem — 1.5k+ ⭐)*  
+  * **[PR #420](https://github.com/arnaudmiribel/streamlit-extras/pull/420)**: Added filesystem ordering controls to `directory_tree` to preserve directory insertion order.  
+  * **[PR #419](https://github.com/arnaudmiribel/streamlit-extras/pull/419)**: Resolved Windows binary execution in project build tooling.
 
 ---
 
+### 📌 Featured Projects
 
-## 🌐 Connect With Me
+#### 1. [Credio: Credit-Risk Scorecard](https://github.com/princenzmw/credit-risk-scorecard)
+> **End-to-end credit risk modeling pipeline and decision application.**  
+> *Stack: Python, Scikit-learn, Pandas, Streamlit, Pytest, Docker, GitHub Actions CI*  
+> [Live Streamlit App](https://credio.streamlit.app) · [Repository](https://github.com/princenzmw/credit-risk-scorecard)
+
+* Built a leakage-controlled ML pipeline on 150,000 credit records, handling missing income distributions and delinquency codes directly within Scikit-learn estimators.
+* Benchmarked models under class imbalance (~6.7% default rate): baseline Logistic Regression (0.823 validation AUC) vs. Gradient Boosting (**0.869 test ROC-AUC**, **0.407 PR-AUC** on 30,000 held-out test records).
+* Configured calibrated risk bands (1.1% to 39.0% observed defaults) and cost-sensitive decision thresholds; containerized and deployed with 19 CI unit tests.
+
+#### 2. [FinAccess Kenya Dashboard](https://github.com/princenzmw/finaccess-kenya-dashboard)
+> **Financial inclusion analytics pipeline and 5-page interactive dashboard.**  
+> *Stack: Power BI (DAX), Python, Pandas*  
+> [Interactive Project Overview](https://nzamuwe.com/projects/finaccess-kenya) · [Repository](https://github.com/princenzmw/finaccess-kenya-dashboard)
+
+* Engineered a Python streaming pipeline converting a 290 MB CBK / FSD household survey into an optimized 8 MB star-schema model (19,750 survey respondents, weighted to 28.1M adults).
+* Reconciled weighted survey metrics against published national benchmarks (84.8% formal financial inclusion, 9.9% complete exclusion) and highlighted regional access disparities (48.5% to 94.0%).
+
+---
+
+### 🛠️ Technical Stack
+
+* **Languages:** Python, SQL (PostgreSQL, MySQL), TypeScript, JavaScript, R, MATLAB.
+* **Data Science & ML:** Pandas, Scikit-learn, NumPy, Feature Engineering, Model Calibration (ROC-AUC / PR-AUC), Data Cleaning.
+* **Backend & BI:** FastAPI, Flask, Django REST Framework, Streamlit, Power BI (DAX), React.
+* **DevOps & Tools:** Git, GitHub Actions (CI/CD), Docker, Pytest, Playwright, Linux/Bash.
+* **Certifications:** Meta Back-End Developer · IBM Artificial Intelligence Fundamentals · freeCodeCamp JavaScript Algorithms & Data Structures.
+
+---
+
+<div align="center">
+
+### 📊 Featured Repositories
 
 <p align="center">
-  <a href="https://x.com/intent/follow?screen_name=princenzmw"><img src="https://img.shields.io/twitter/follow/princenzmw" alt="Twitter Follow" /></a>
-  <a href="https://www.linkedin.com/in/princenzmw/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/fudjiprinko146/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/princenzmw/credit-risk-scorecard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=credit-risk-scorecard&theme=tokyonight" /></a>
+  <a href="https://github.com/princenzmw/finaccess-kenya-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=finaccess-kenya-dashboard&theme=tokyonight" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princenzmw&theme=tokyonight-duo&card_width=600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=princenzmw&layout=compact&langs_count=8&card_width=320&theme=tokyonight)](https://github.com/princenzmw)
-
----
-## 🚀 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=Loan_Default_Prediction&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=princenzmw&repo=AirBnB_clone_v4&theme=tokyonight" />
-</p>
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=✌️+Thanks+for+visiting!;Let's+build+something+great+together!;💬+Reach+out+on+LinkedIn!)](https://git.io/typing-svg)
-
-----
-<!---
-princenzmw/princenzmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
