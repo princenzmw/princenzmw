@@ -32,8 +32,8 @@ I build data-driven systems end-to-end: leak-free machine learning pipelines, pr
 
 * **[arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras)** [![Stars](https://img.shields.io/github/stars/arnaudmiribel/streamlit-extras?style=flat-square&logo=github&label=stars)](https://github.com/arnaudmiribel/streamlit-extras)  
   *Ecosystem library of re-usable widgets and components for Streamlit*
-  * **[PR #420](https://github.com/arnaudmiribel/streamlit-extras/pull/420)**: Added filesystem ordering controls to `directory_tree` to preserve directory insertion order.  
-  * **[PR #419](https://github.com/arnaudmiribel/streamlit-extras/pull/419)**: Resolved Windows binary execution in project build tooling.
+  * **[PR #421](https://github.com/arnaudmiribel/streamlit-extras/pull/421)**: Added filesystem ordering controls to `directory_tree` to preserve directory insertion order.  
+  * **[PR #422](https://github.com/arnaudmiribel/streamlit-extras/pull/422)**: Resolved Windows binary execution in project build tooling.
 
 ---
 
