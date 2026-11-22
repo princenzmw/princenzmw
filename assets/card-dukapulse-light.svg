@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="DukaPulse Concurrency and Semantic Search Metrics">
+  <rect x="0.5" y="0.5" width="639" height="359" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="28" y="37" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700">DukaPulse · Concurrency &amp; Search</text>
+  <rect x="396" y="20" width="216" height="24" rx="12" fill="#f8fafc" stroke="#d0d7de" stroke-width="1"/>
+  <text x="504" y="36" text-anchor="middle" fill="#0284c7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">FASTAPI · POSTGRES · PGVECTOR</text>
+  <line x1="28" y1="56" x2="612" y2="56" stroke="#e2e8f0" stroke-width="1"/>
+
+  <rect x="28.5" y="68.5" width="583" height="52" rx="8" fill="#f8fafc" stroke="#d0d7de" stroke-width="1"/>
+  <text x="44" y="88" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">16-THREAD RACE TEST (10,000 ATTEMPTS FOR 1 UNIT)</text>
+  <text x="44" y="109" fill="#059669" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">1 Claimed (HTTP 200)</text>
+  <text x="246" y="109" fill="#0284c7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">9,999 Blocked (HTTP 409)</text>
+  <text x="596" y="109" text-anchor="end" fill="#0f172a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">0 Oversells</text>
+
+  <text x="28" y="143" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">SWAHILI &amp; SHENG VECTOR RETRIEVAL (ALL-MINILM-L6-V2)</text>
+
+  <text x="28" y="168" fill="#1e293b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">unga ya ugali</text>
+  <rect x="176" y="159" width="340" height="10" rx="5" fill="#e2e8f0"/>
+  <rect x="176" y="159" width="293" height="10" rx="5" fill="#059669"/>
+  <text x="612" y="168" text-anchor="end" fill="#059669" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">0.861 cosine</text>
+
+  <text x="28" y="194" fill="#1e293b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">mafuta ya kupika</text>
+  <rect x="176" y="185" width="340" height="10" rx="5" fill="#e2e8f0"/>
+  <rect x="176" y="185" width="263" height="10" rx="5" fill="#0284c7"/>
+  <text x="612" y="194" text-anchor="end" fill="#0284c7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">0.774 cosine</text>
+
+  <text x="28" y="220" fill="#1e293b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">sabuni ya kuoga</text>
+  <rect x="176" y="211" width="340" height="10" rx="5" fill="#e2e8f0"/>
+  <rect x="176" y="211" width="208" height="10" rx="5" fill="#7c3aed"/>
+  <text x="612" y="220" text-anchor="end" fill="#7c3aed" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">0.612 cosine</text>
+
+  <rect x="28.5" y="244.5" width="183" height="68" rx="8" fill="#f8fafc" stroke="#d0d7de" stroke-width="1"/>
+  <text x="44" y="272" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">0 Oversells</text>
+  <text x="44" y="296" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">Atomic SQL lock</text>
+
+  <rect x="228.5" y="244.5" width="183" height="68" rx="8" fill="#f8fafc" stroke="#d0d7de" stroke-width="1"/>
+  <text x="244" y="272" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">7-Day Chunks</text>
+  <text x="244" y="296" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">TimescaleDB</text>
+
+  <rect x="428.5" y="244.5" width="183" height="68" rx="8" fill="#f8fafc" stroke="#d0d7de" stroke-width="1"/>
+  <text x="444" y="272" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Auth0 RBAC</text>
+  <text x="444" y="296" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">Margin redaction</text>
+
+  <text x="28" y="338" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">POS backend and 60-day telemetry analytics for Kenyan retail shops</text>
+</svg>

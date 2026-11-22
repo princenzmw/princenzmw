@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Mzigo Chakula Star Schema and Kenya Food Price Trend">
+  <defs>
+    <linearGradient id="mzigo-fill-dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="639" height="359" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="28" y="37" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Mzigo Chakula · Kenya Food Prices</text>
+  <rect x="414" y="20" width="198" height="24" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="513" y="36" text-anchor="middle" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">WORLD BANK · 2007 TO 2026</text>
+  <line x1="28" y1="56" x2="612" y2="56" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Left Panel: Star Schema -->
+  <rect x="28.5" y="70.5" width="280" height="155" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="42" y="90" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">STAR SCHEMA (1:* SINGLE DIRECTION)</text>
+
+  <rect x="42" y="104" width="104" height="24" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="94" y="120" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">dim_markets</text>
+
+  <rect x="42" y="140" width="104" height="24" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="94" y="156" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">dim_date</text>
+
+  <rect x="42" y="176" width="104" height="24" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="94" y="192" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">dim_commodity</text>
+
+  <path d="M 146 116 L 170 116 L 170 144 L 194 144" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <line x1="146" y1="152" x2="194" y2="152" stroke="#475569" stroke-width="1.5"/>
+  <path d="M 146 188 L 170 188 L 170 160 L 194 160" fill="none" stroke="#475569" stroke-width="1.5"/>
+
+  <rect x="194" y="129" width="100" height="46" rx="6" fill="#0d1117" stroke="#10b981" stroke-width="1.3"/>
+  <text x="244" y="149" text-anchor="middle" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">fact_prices</text>
+  <text x="244" y="165" text-anchor="middle" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">55,692 rows</text>
+
+  <!-- Right Panel: Trend Curve -->
+  <rect x="324.5" y="70.5" width="287" height="155" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="340" y="90" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">FOOD PRICE INDEX (238 MONTHS)</text>
+  <line x1="344" y1="150" x2="594" y2="150" stroke="#21262d" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="344" y1="196" x2="594" y2="196" stroke="#30363d" stroke-width="1"/>
+  <path d="M 344 188 L 386 182 L 428 175 L 470 166 L 512 152 L 552 124 L 592 108 L 592 196 L 344 196 Z" fill="url(#mzigo-fill-dark)"/>
+  <path d="M 344 188 L 386 182 L 428 175 L 470 166 L 512 152 L 552 124 L 592 108" fill="none" stroke="#10b981" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="592" cy="108" r="5" fill="#10b981" fill-opacity="0.25"/>
+  <circle cx="592" cy="108" r="2.8" fill="#10b981"/>
+  <text x="344" y="214" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">2007</text>
+  <text x="468" y="214" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">2016</text>
+  <text x="592" y="214" text-anchor="end" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">2026</text>
+
+  <!-- Bottom Metrics -->
+  <rect x="28.5" y="244.5" width="183" height="68" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="272" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">55,692 Rows</text>
+  <text x="44" y="296" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">46 source cols</text>
+
+  <rect x="228.5" y="244.5" width="183" height="68" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="244" y="272" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">233 Markets</text>
+  <text x="244" y="296" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">27 counties</text>
+
+  <rect x="428.5" y="244.5" width="183" height="68" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="444" y="272" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">15 DAX · 4 Pages</text>
+  <text x="444" y="296" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">Power BI PBIR</text>
+
+  <text x="28" y="338" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">World Bank Real Time Food Prices (CC BY 4.0) · USIU-Africa DSA 3050A</text>
+</svg>
