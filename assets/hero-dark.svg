@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Prince Nzamuwe, Data Science and ML Engineering Student">
+  <defs>
+    <clipPath id="hero-clip-dark">
+      <rect x="0" y="0" width="880" height="200" rx="12"/>
+    </clipPath>
+    <pattern id="hero-grid-dark" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="roc-fill-dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#hero-clip-dark)">
+    <rect width="880" height="200" fill="#0d1117"/>
+    <rect width="880" height="200" fill="url(#hero-grid-dark)"/>
+    <circle cx="840" cy="20" r="140" fill="#10b981" fill-opacity="0.06"/>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="199" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="43" cy="39" r="7" fill="none" stroke="#10b981" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="43" cy="39" r="4" fill="#10b981"/>
+  <text x="58" y="43" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.06em">NAIROBI, KENYA · OPEN TO INTERNSHIPS &amp; FREELANCE</text>
+
+  <text x="36" y="92" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.02em">Prince Nzamuwe</text>
+  <text x="36" y="122" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Data Science &amp; ML Engineering Student · USIU-Africa '28</text>
+  <text x="36" y="149" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5">Calibrated ML pipelines, PostgreSQL/TimescaleDB backends, and weighted Power BI models.</text>
+  <rect x="36" y="170" width="64" height="3" rx="1.5" fill="#10b981"/>
+
+  <rect x="612" y="24" width="236" height="152" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="628" y="44" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.05em">CALIBRATION &amp; TELEMETRY</text>
+  <line x1="628" y1="53" x2="832" y2="53" stroke="#21262d" stroke-width="1"/>
+
+  <line x1="632" y1="66" x2="632" y2="144" stroke="#30363d" stroke-width="1"/>
+  <line x1="632" y1="144" x2="742" y2="144" stroke="#30363d" stroke-width="1"/>
+  <line x1="632" y1="144" x2="742" y2="66" stroke="#30363d" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M 632 144 C 638 92, 668 70, 742 66 L 742 144 Z" fill="url(#roc-fill-dark)"/>
+  <path d="M 632 144 C 638 92, 668 70, 742 66" fill="none" stroke="#10b981" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="662" cy="84" r="6" fill="#10b981" fill-opacity="0.25"/>
+  <circle cx="662" cy="84" r="3" fill="#10b981"/>
+
+  <rect x="764" y="116" width="9" height="28" rx="2" fill="#38bdf8" fill-opacity="0.5"/>
+  <rect x="778" y="98" width="9" height="46" rx="2" fill="#38bdf8" fill-opacity="0.65"/>
+  <rect x="792" y="108" width="9" height="36" rx="2" fill="#38bdf8" fill-opacity="0.6"/>
+  <rect x="806" y="82" width="9" height="62" rx="2" fill="#38bdf8" fill-opacity="0.85"/>
+  <rect x="820" y="70" width="9" height="74" rx="2" fill="#38bdf8"/>
+
+  <text x="628" y="164" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">ROC-AUC 0.869 · BRIER 0.0486</text>
+</svg>
